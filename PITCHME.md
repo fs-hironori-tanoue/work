@@ -8,7 +8,11 @@
 
 
 ### 2枚目のスライド
-
+- Java
+- JavaScript |
+- Kotlin |
+- Go |
+- Scala |
 
 ---
 
